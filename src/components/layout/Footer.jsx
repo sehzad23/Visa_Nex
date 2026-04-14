@@ -144,7 +144,7 @@ const Footer = () => {
 
           <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row lg:items-center lg:justify-between gap-4">
             <p className="text-gray-400 text-sm ">
-              © {new Date().getFullYear()} VisaNex Visa Cunsoltency. All rights
+              © {new Date().getFullYear()} Visanex Consultancy. All rights
               reserved.
             </p>
             <p className="text-gray-400 text-sm">
