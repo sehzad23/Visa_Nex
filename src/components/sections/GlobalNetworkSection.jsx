@@ -1,7 +1,7 @@
 import Reveal from "../common/Reveal";
 import MapLocationDot from "../common/MapLocationDot";
 import { networkLocations } from "../data/networkLocations";
-import Map_img from "../../assets/images/map_img_new.avif"
+import Map_img from "../../assets/images/Map_img_new.avif"
 
 const GlobalNetworkSection = () => {
   return (
