@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import logo from "../../assets/images/logo.png"
+import logo from "../../assets/images/updated_logo.png";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -56,7 +56,7 @@ const Navbar = () => {
         <a href="#hero" className="flex items-center gap-2 group">
 
           <span className="font-semibold text-base tracking-tighter text-black uppercase">
-             <img src={logo} className="w-32 h-32 object-contain" alt="Logo" />
+             <img src={logo} className="w-20 h-20 object-contain" alt="Logo" />
           </span>
         </a>
 
@@ -67,7 +67,7 @@ const Navbar = () => {
               href={`#${link.id}`}
               className={`nav-elem relative text-sm transition-all font-semibold text-blue-900 duration-300 ${
                 activeSection === link.id
-                  ? "text-[#0b3661] font-semibold"
+                  ? "text-[#fc7426] font-semibold"
                   : "text-gray-500 hover:text-black"
               }`}
             >

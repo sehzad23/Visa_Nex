@@ -12,7 +12,7 @@ const Footer = () => {
                   style={{ strokeWidth: "1.5" }}
                 ></iconify-icon>
                 <span className="font-medium text-base tracking-tighter text-black uppercase">
-                  VISANEX
+                  NEX HOLIDAYS
                 </span>
               </a>
               <p className="text-gray-500 font-normal text-sm leading-relaxed mb-6 max-w-xs">
