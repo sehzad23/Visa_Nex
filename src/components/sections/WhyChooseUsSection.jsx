@@ -12,7 +12,7 @@ const WhyChooseUsSection = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
           <div>
             <h2 className="font-medium text-3xl tracking-tight text-black mb-2">
-              The Visanex Difference
+              The Nex Holidays Difference
             </h2>
 
             <p className="text-gray-500 font-normal text-base tracking-tight">
